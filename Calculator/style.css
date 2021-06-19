@@ -1,0 +1,186 @@
+body{
+    background-image: url("https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202102/MIT-Dwarf-Halo-01-press_0.jpg?itok=d7PtSGnA");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+background-color: black;
+margin: 0;
+padding: 0;
+}
+.calci{
+    width: 2000px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    position: absolute;
+    top: 50%;
+    left: 70%;
+    transform: translate(-50%,-50%);
+    transition: 0.25px;
+    text-align: center;
+}
+
+#display{
+    border: none;
+    background: white;
+    border-radius: 30px;
+    width: 245;
+    font-size: 20;
+    font-family: sans-serif;
+    font-weight: 300;
+    height: 60;
+    margin: auto;
+    border: 2px solid white;
+    color: rgb(0, 0, 0);
+}
+.btnDesign{
+    color: rgba(255,0,251,0.5);
+    width: 50px;
+    height: 50px;
+    padding-top: -1;
+    border: none;
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: bolder;
+    border-radius: 30px;
+    margin: 1.5;
+    
+}
+.operatorDesign{
+    color: #ff00fb;
+    width: 50px;
+    height: 50px;
+    background: white;
+    padding-top: -1;
+    border: none;
+    font-family: sans-serif;
+    font-size: 20;
+    font-weight: 300;
+    border-radius: 30px;
+    margin: 1.5;
+    transition: 0.25px;
+    cursor: pointer;
+}
+
+.operatorDesign:hover{
+   background: #00d9ff; 
+}
+#zero{
+    
+    color: #ff00fb;
+    width: 50px;
+    height: 50px;
+    padding-top: -1;
+    border: none;
+    font-family: sans-serif;
+    font-size: 20;
+    font-weight: 300;
+    border-radius: 30px;
+    margin: 1.5;
+}
+
+.text{
+    color: white;
+    margin-top: 300px;
+    margin-left: 100px;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-weight: 700px;
+    font-size: 50;
+    text-decoration: underline;
+}
+
+#one{
+    background-image: url("tinysootball.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#two{
+    background-image: url("tinysootball.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#three{
+    background-image: url("tinysootball.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#four{
+    background-image: url("tinysootball.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#five{
+    background-image: url("tinysootball.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#six{
+    background-image: url("tinysootball.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#seven{
+    background-image: url("tinysootball.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#eight{
+    background-image: url("tinysootball.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#nine{
+    background-image: url("tinysootball.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#ten{
+    background-image: url("tinysootball.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#eleven{
+    background-image: url("tinysootball.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#twelve{
+    background-image: url("tinysootball.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#thirteen{
+    background-image: url("tinysootball.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#fourteen{
+    background-image: url("tinysootball.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#fifteen{
+    background-image: url("tinysootball.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#sixteen{
+    background-image: url("tinysootball.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.seventeen{
+    background-image: url("tinysootball.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#eighteen{
+    background-image: url("tinysootball.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#nineteen{
+    background-image: url("tinysootball.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
